@@ -1,0 +1,13 @@
+<launch>
+	<node pkg="egg_sticks_game" type="organizer.py" name="organizer_node" output="screen">
+	</node>
+	<node pkg="egg_sticks_game" type="agent1.py" name="agent1_node" output="screen">
+	</node>
+    <node pkg="egg_sticks_game" type="agent2.py" name="agent2_node" output="screen">
+    </node>
+	<node pkg="egg_sticks_game" type="environment.py" name="env_node" output="screen">
+	</node>
+    <node pkg="egg_sticks_game" type="visualizer.py" name="viz_node" output="screen">
+    </node>
+
+</launch>

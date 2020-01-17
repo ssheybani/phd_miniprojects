@@ -1,6 +1,7 @@
-# Autonomous Robots Course
+# ROS mini projects
 
-Mini project
+
+Project 1:
 
 TASK: A turtlebot3 model robot explores the environment while creating a map that well covers the initially unexplored environment. 
 The solution includes the following steps:

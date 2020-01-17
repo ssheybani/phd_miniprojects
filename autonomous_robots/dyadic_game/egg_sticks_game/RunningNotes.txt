@@ -1,0 +1,8 @@
+Running Notes
+
+1- catkin_make your workspace, and source devel/setup.bash (for each new terminal); 
+2- roslaunch egg_sticks_game launch_game.launch
+3- rosrun rviz rviz
+4- Add markers in RViz
+
+The files for the physical version with force-feedback joystick are also attached, but are not executable without the device.
