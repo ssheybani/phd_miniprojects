@@ -3,7 +3,7 @@
 
 **Task**: Cooperative agents generate opposing forces (via push rods) to move an egg along a prescribed trajectory. This task is implemented as part of the following study:
 
-*Sheybani, S., Izquierdo, E., Roth E. (forthcoming 2020). Evolving Dyadic Strategies for a Cooperative Physical Task.  publication description IEEE Haptics Symposium.*
+*Sheybani, S., Izquierdo, E., Roth E. (forthcoming 2020). Evolving Dyadic Strategies for a Cooperative Physical Task. IEEE Haptics Symposium.*
 
 Objectives and Constraints
 The egg should follow the target trajectory
