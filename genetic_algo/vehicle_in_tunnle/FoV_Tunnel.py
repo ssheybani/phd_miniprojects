@@ -1,3 +1,12 @@
+"""
+A class for simulating an environment.
+
+Lineseg: 
+    For implementing a 2D environment made of line segments
+FoV:
+    For creating a retina that calculates Field of View (FoV) in the Lineseg environment.
+"""
+
 import numpy as np
 from numpy import array as narr
 
