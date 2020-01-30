@@ -9,7 +9,7 @@ The solution includes the following steps:
 
 The project is done in Robotics Operating System (ROS). The model of the environment and the turtlebot are provided by Gazebo simulator.
 
-The code is not shared upon request of the course instructor, but see [here](https://drive.google.com/open?id=1_im9PsmhoW2ZO9Is5PrzyplmXYA5CbHh) for a video of the result.
+Following the class rule, the code will only be made available upon request, but see [here](https://drive.google.com/open?id=1_im9PsmhoW2ZO9Is5PrzyplmXYA5CbHh) for a video of the result.
 
 
 
